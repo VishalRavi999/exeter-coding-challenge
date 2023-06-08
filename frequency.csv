@@ -1,0 +1,956 @@
+English word,French word,Frequency
+blind,aveugle,51
+slender,mince,23
+guilty,coupable,50
+obedience,obéissance,21
+sudden,soudain,63
+yonder,là-bas,53
+quoth,quoth,65
+kings,rois,56
+wisdom,sagesse,66
+copyright,droits d'auteur,228
+waste,déchets,35
+vantage,avantage,101
+silence,silence,41
+somerset,somerset,37
+before,avant,689
+prison,prison,33
+sovereign,souverain,67
+excellent,excellent,92
+egypt,Egypte,15
+phebe,phebe,6
+version,version,222
+beggar,mendiant,26
+spring,printemps,34
+fierce,féroce,37
+itself,lui-même,139
+surrey,Surrey,12
+humble,humble,56
+vengeance,vengeance,118
+practice,entraine toi,24
+shame,la honte,158
+court,tribunal,113
+personal,Personnel,19
+marriage,mariage,57
+ferdinand,Ferdinand,7
+mouth,bouche,64
+commission,commission,27
+alone,seul,83
+unworthy,indigne,35
+damned,damné,44
+salerio,salerio,7
+woman,femme,153
+bastard,Connard,66
+lords,seigneurs,118
+kindness,la gentillesse,25
+drink,boisson,102
+warrant,mandat,140
+consider,considérer,40
+guard,garde,145
+either,Soit,152
+violent,violent,37
+proper,correct,60
+round,rond,53
+master,Maître,506
+cheer,acclamation,43
+knave,fripon,62
+ambition,ambition,18
+whole,entier,108
+shepherd,berger,27
+captain,capitaine,72
+better,mieux,501
+teach,enseigner,97
+through,par,244
+rivers,rivières,14
+victory,la victoire,15
+protest,manifestation,30
+gower,gower,10
+cruel,cruel,55
+fearful,craintif,76
+disgrace,disgrâce,33
+faint,perdre connaissance,26
+prayers,prières,49
+single,Célibataire,54
+cardinal,cardinal,45
+suffolk,suffolk,46
+priest,prêtre,30
+stomach,estomac,16
+pound,livre,40
+special,spécial,36
+coward,lâche,37
+tailor,tailleur,18
+wrong,faux,333
+feast,le banquet,55
+knees,les genoux,26
+patience,la patience,68
+meeting,réunion,35
+wench,jeune fille,51
+straight,tout droit,76
+courtesy,courtoisie,18
+tribunes,tribunes,24
+reverence,révérence,20
+broke,cassé,73
+folly,folie,35
+fatal,fatal,39
+flight,vol,21
+monster,monstre,20
+strike,la grève,118
+appear,apparaître,94
+bones,des os,37
+cease,cesser,29
+limbs,membres,29
+denied,refusé,41
+merchant,marchande,21
+mistake,erreur,29
+fourth,Quatrième,39
+sought,recherché,32
+piece,pièce,77
+emperor,empereur,48
+bearing,palier,62
+personal,personnel,233
+bought,acheté,42
+revolt,révolte,23
+brought,apporté,188
+trumpet,trompette,53
+write,écrire,107
+infinite,infini,30
+hubert,Hubert,11
+suffer,souffrir,70
+gaunt,décharné,16
+nothing,rien,436
+ulysses,Ulysse,16
+brother,frère,269
+regard,qui concerne,28
+nurse,infirmière,25
+little,peu,406
+equal,égal,43
+liege,Liege,6
+offend,offenser,48
+tongue,langue,231
+posthumus,posthume,24
+chamber,chambre,48
+attend,assister,100
+praise,louange,123
+least,moins,67
+fears,peurs,47
+spoke,parlait,123
+tedious,fastidieux,36
+justice,Justice,88
+account,Compte,31
+outward,vers l'extérieur,45
+enter,entrer,2013
+courage,courage,34
+instant,instant,45
+constable,gendarme,17
+project,projet,244
+dolabella,Dolabella,6
+crown,couronne,123
+utter,prononcer,32
+slave,esclave,46
+youth,jeunesse,145
+question,question,93
+issue,problème,78
+approach,approche,35
+countess,comtesse,17
+except,sauf,33
+entertainment,divertissement,18
+emilia,Émilie,5
+julia,Julia,20
+lucentio,Lucentio,27
+lorenzo,Lorenzo,14
+pompey,pompey,40
+wings,ailes,33
+parted,séparé,33
+paper,papier,50
+motion,mouvement,48
+stain,tache,34
+dwell,habiter,30
+hundred,cent,104
+smell,odeur,42
+sight,vue,94
+shake,secouer,90
+drops,gouttes,43
+parolles,parolles,14
+shortly,prochainement,29
+ransom,une rançon,34
+fashion,mode,55
+copies,copies,445
+behold,voir,117
+respect,le respect,67
+since,depuis,410
+begin,commencer,75
+clouds,des nuages,36
+summer,été,41
+voice,voix,85
+forbid,interdire,43
+mirth,gaieté,21
+beyond,au-delà,57
+manner,manière,64
+ghost,fantôme,34
+realm,domaine,25
+sorry,pardon,191
+doing,Faire,51
+object,objet,26
+without,sans pour autant,349
+mischief,sottises,23
+hours,heures,87
+forth,en avant,229
+wolsey,Wolsey,12
+mother,mère,161
+friend,ami,166
+judgment,jugement,53
+business,Entreprise,130
+launce,lancer,4
+fruit,fruit,26
+exeunt,sortir,841
+walls,des murs,52
+cause,cause,208
+together,ensemble,94
+others,autres,333
+become,devenir,134
+souls,âmes,65
+wealth,richesse,51
+sweat,transpiration,27
+should,devrait,1535
+stone,calcul,22
+pedro,pedro,8
+thing,chose,251
+worse,pire,112
+stroke,accident vasculaire cérébral,31
+france,France,149
+morrow,demain,19
+cinna,cinna,4
+tyrant,tyran,28
+would,aurait,2240
+their,leur,2076
+bright,brillant,52
+sorrow,chagrin,118
+angel,ange,35
+blunt,cru,25
+stuff,des trucs,38
+twice,deux fois,61
+niece,nièce,24
+madness,la démence,32
+edmund,Edmund,25
+shape,forme,54
+brows,sourcils,21
+taste,goût,59
+proof,preuve,42
+change,changement,121
+purpose,objectif,117
+sport,sport,66
+thank,remercier,288
+beard,barbe,40
+charity,charité,23
+lieutenant,lieutenant,22
+hereafter,"ci-après,17
+weight,poids,31
+tread,bande de roulement,34
+minds,esprits,37
+fiend,démon,36
+triumph,triomphe,24
+whore,putain,12
+there,Là,1367
+count,compter,79
+servant,serviteur,129
+along,le long de,61
+polixenes,polixènes,10
+warlike,guerrier,57
+accuse,accuser,34
+glory,gloire,63
+mercy,pitié,93
+enjoy,prendre plaisir,38
+asleep,endormi,13
+provided,à condition de,247
+going,Aller,67
+dread,crainte,43
+milan,Milan,11
+early,de bonne heure,39
+dagger,dague,24
+myself,moi même,305
+french,français,179
+third,troisième,218
+fiery,ardent,43
+empty,vide,39
+dispatch,envoi,32
+private,privé,54
+right,droite,207
+report,rapport,94
+soothsayer,devin,8
+meant,signifiait,40
+permission,autorisation,1
+royal,Royal,200
+excuse,excuse,57
+murder,meurtre,44
+humour,humour,62
+despair,désespoir,29
+express,Express,32
+believe,croyez,209
+poison,poison,52
+tempest,tempête,30
+steward,intendant,15
+measure,mesure,72
+everything,tout,35
+endure,supporter,533
+crave,demander,40
+elbow,coude,6
+storm,orage,31
+trick,tour,36
+dance,Danse,35
+steal,voler,70
+suddenly,tout à coup,30
+supper,souper,22
+condition,état,31
+willing,prêt,110
+palace,palais,131
+oliver,oliver,8
+widow,veuve,49
+safety,sécurité,41
+saint,Saint,107
+maids,servantes,23
+duncan,Duncan,10
+month,mois,23
+discover,découvrir,31
+castle,Château,35
+greet,saluer,123
+street,rue,56
+party,fête,38
+prize,prix,25
+wives,épouses,29
+slain,tué,51
+foolish,insensé,83
+proceed,procéder,33
+despite,malgré,42
+didst,didst,178
+bears,ours,85
+lives,vies,131
+taken,pris,69
+thrust,poussée,51
+undertake,entreprendre,40
+field,champ,79
+laugh,rire,66
+barren,Dénudé,33
+those,ceux,537
+often,souvent,119
+seeing,voyant,40
+drums,tambours,22
+spirit,esprit,147
+divine,Divin,29
+prepare,préparer,52
+chide,gronder,39
+natural,Naturel,51
+absence,absence,34
+sharp,tranchant,60
+scene,scène,753
+behalf,nom,24
+fetch,chercher,149
+force,Obliger,79
+march,Mars,75
+treason,trahison,45
+peace,paix,186
+particular,particulier,41
+surely,sûrement,27
+shall,doit,3473
+saying,en disant,43
+neighbour,voisine,27
+blame,faire des reproches,56
+garden,jardin,32
+breed,race,41
+plain,plaine,86
+cross,traverser,47
+substance,substance,26
+complexion,complexion,23
+winter,hiver,32
+effect,effet,43
+download,Télécharger,221
+cromwell,Cromwell,5
+steel,acier,32
+colour,Couleur,47
+purse,bourse,36
+flower,fleur,19
+belike,être comme,28
+marcius,Marcius,38
+afterwards,ensuite,29
+favour,favoriser,65
+throw,jeter,99
+doctor,docteur,43
+hateful,odieux,38
+given,donné,172
+demand,demande,70
+bound,lié,133
+fought,combattu,44
+understand,comprendre,83
+people,gens,98
+shore,rive,19
+ariel,Ariel,12
+answer,répondre,272
+frown,froncer les sourcils,25
+heavy,lourd,139
+visit,visite,54
+unless,sauf si,151
+double,double,66
+enemy,ennemi,78
+welcome,Bienvenue,154
+affections,affections,24
+villain,scélérat,70
+lovely,charmant,51
+clifford,Clifford,31
+breast,Sein,35
+mowbray,mowbray,8
+marry,marier,110
+midnight,minuit,19
+grace,la grâce,345
+return,revenir,135
+complete,Achevée,241
+darkness,obscurité,24
+written,écrit,30
+partly,partiellement,33
+clown,pitre,39
+render,rendre,39
+judge,juge,44
+dream,rêver,62
+reign,règne,29
+entertain,divertir,35
+follow,suivre,233
+dreams,rêves,27
+sometime,parfois,73
+fairy,Fée,43
+afraid,peur,25
+lands,terres,30
+apparel,vêtements,47
+banish,bannir,35
+known,connu,137
+think,pense,862
+conduct,conduite,42
+present,présent,203
+passion,la passion,67
+jealous,jaloux,39
+flies,mouches,35
+always,toujours,59
+kneel,s'agenouiller,40
+certain,certain,121
+dying,en train de mourir,30
+times,fois,158
+forbear,ancêtre,27
+elder,aîné,28
+burning,brûlant,37
+noise,bruit,72
+spend,dépenser,60
+hostess,hôtesse,21
+weeds,mauvaises herbes,26
+public,Publique,55
+command,commander,98
+house,maison,273
+almost,presque,156
+counterfeit,contrefaire,28
+several,nombreuses,79
+orlando,orlando,14
+flatter,flatter,32
+pride,fierté,58
+bring,apporter,435
+heads,têtes,60
+appears,apparaît,40
+pistol,pistolet,24
+thief,voleur,26
+happy,heureux,211
+bodies,corps,30
+sentence,phrase,27
+nought,néant,45
+affection,affection,40
+loose,ample,33
+fools,imbéciles,63
+burden,fardeau,27
+letter,lettre,116
+whose,dont,612
+flood,inonder,23
+jewel,bijou,36
+leontes,leontes,12
+place,endroit,233
+shine,éclat,28
+viola,alto,8
+prohibited,interdit,221
+remain,rester,45
+point,point,92
+presence,présence,67
+degree,diplôme,23
+chain,chaîne,31
+seven,Sept,62
+poins,poins,12
+taught,enseigné,46
+patient,patient,36
+drawn,tiré,59
+profit,profit,27
+tarry,goudronneux,24
+padua,Padoue,11
+giving,donnant,41
+chief,chef,105
+sword,épée,170
+power,Puissance,209
+majesty,majesté,103
+yours,le tiens,79
+creature,créature,35
+whether,qu'il s'agisse,95
+story,récit,41
+innocent,innocent,41
+merit,mérite,32
+assure,assurer,49
+drunk,ivre,39
+displeasure,mécontentement,23
+beauty,beauté,139
+means,veux dire,200
+bottom,bas,33
+syracuse,Syracuse,22
+while,tandis que,192
+heaven,paradis,356
+feeble,faible,19
+device,dispositif,17
+skill,compétence,25
+pains,des douleurs,45
+yield,rendement,113
+bounty,prime,22
+philip,Philippe,9
+battle,bataille,68
+breath,souffle,116
+curse,malédiction,70
+hector,Hector,67
+short,court,64
+course,cours,100
+business,entreprise,73
+turns,se tourne,49
+hanging,pendaison,27
+falls,des chutes,47
+gentle,doux,336
+witness,témoin,93
+intend,avoir l'intention,43
+watch,regarder,77
+senate,sénat,28
+lovers,les amoureux,38
+besides,outre,39
+another,un autre,330
+credit,crédit,30
+being,étant,640
+authority,autorité,30
+thunder,tonnerre,31
+civil,civil,43
+health,santé,52
+horse,cheval,105
+sooner,plus tôt,51
+charge,charge,131
+goodness,la bonté,36
+after,après,346
+exeter,Exeter,18
+pandarus,Pandarus,15
+possible,possible,27
+murther,aller plus loin,21
+touch,toucher,94
+freely,librement,36
+thought,pensée,285
+sickness,maladie,34
+modest,modeste,31
+chair,chaise,16
+doubt,doute,117
+perhaps,peut-être,33
+uncle,oncle,89
+truly,vraiment,81
+affairs,affaires,39
+brain,cerveau,43
+scarce,rare,69
+margaret,margaret,41
+flowers,fleurs,24
+gallant,galant,47
+misery,misère,16
+precious,précieux,69
+something,quelque chose,155
+dishonour,déshonorer,33
+trust,confiance,142
+proud,fier,159
+train,train,46
+picture,image,58
+faith,Foi,75
+traitor,traitre,53
+repent,se repentir,39
+sound,du son,130
+lawful,légitime,50
+flourish,fleurir,35
+marcus,Marcus,30
+doors,des portes,35
+solemn,solennel,39
+forward,vers l'avant,42
+counsel,Conseil,85
+challenge,défi,35
+faces,visages,22
+these,celles-ci,1252
+learned,appris,44
+smile,sourire,50
+occasion,occasion,55
+remedy,remède,12
+beaten,battu,34
+holds,tient,77
+although,bien que,684
+which,lequel,2154
+content,contenu,85
+fresh,Frais,78
+small,petit,84
+wounded,blessés,28
+lordship,seigneurie,63
+anger,colère,53
+maria,maria,23
+brief,bref,39
+prince,prince,332
+plead,plaider,41
+capitol,Capitole,8
+death,décès,357
+promise,promettre,70
+blows,coups,40
+large,grand,56
+light,lumière,145
+abuse,abuser de,25
+farther,plus loin,149
+makes,fait du,344
+throne,trône,22
+depart,partir,36
+strong,fort,136
+fellow,compagnon,136
+country,pays,80
+night,nuit,274
+loving,aimant,106
+college,Université,224
+green,vert,55
+toward,vers,92
+learn,apprendre,72
+please,S'il vous plaît,339
+avoid,éviter,25
+heels,talons,30
+entreat,supplier,99
+longer,plus long,79
+action,action,69
+music,la musique,96
+companion,un compagnon,19
+cupid,Cupidon,26
+never,jamais,959
+trouble,difficulté,60
+athens,Athènes,36
+messenger,Messager,98
+store,boutique,24
+making,fabrication,71
+silver,argent,141
+pretty,jolie,101
+labour,la main d'oeuvre,48
+deliver,livrer,88
+execution,exécution,25
+forget,oublier,77
+desert,désert,24
+struck,frappé,64
+witch,sorcière,21
+blood,du sang,344
+shadow,ombre,48
+readable,lisible,223
+earth,Terre,139
+thrive,prospérer,30
+encounter,rencontre,85
+according,selon,44
+citizen,citoyenne,8
+deeds,actes,71
+golden,d'or,90
+already,déjà,69
+service,un service,332
+leisure,loisir,35
+person,la personne,76
+haste,hâte,80
+church,église,22
+again,encore,638
+table,table,29
+rotten,pourri,33
+wretch,misérable,22
+state,Etat,166
+peril,péril,24
+disposition,disposition,23
+speak,parler,803
+sworn,juré,142
+machine,machine,223
+kingdom,Royaume,44
+swear,jurer,197
+fancy,fantaisie,22
+abroad,à l'étranger,20
+child,enfant,105
+other,autre,555
+constant,constant,37
+liberty,liberté,23
+conscience,conscience,62
+weapons,armes,20
+ground,sol,64
+durst,durst,49
+common,commun,137
+rather,plutôt,272
+between,entre,229
+beast,la bête,36
+carry,porter,96
+gates,portes,56
+treasure,Trésor,33
+unknown,inconnue,26
+teeth,les dents,29
+terms,termes,45
+offer,offre,68
+knock,frappe,50
+pleasure,plaisir,85
+slander,calomnie,31
+proclaim,proclamer,37
+rough,rugueux,52
+noble,noble,574
+malice,malice,49
+neither,ni,118
+serve,servir,157
+living,vivant,121
+dinner,dîner,24
+defend,défendre,61
+scorn,mépris,92
+clarence,clarté,43
+whence,d'où,71
+grave,la tombe,82
+grant,subvention,91
+naked,nu,39
+maintain,maintenir,35
+number,nombre,36
+under,sous,286
+behind,derrière,78
+chance,chance,70
+clear,clair,44
+valour,valeur,50
+sister,sœur,77
+commit,commettre,34
+cousin,cousin,109
+familiar,familier,29
+young,Jeune,404
+bitter,amer,65
+speech,discours,93
+cloten,cailloter,13
+wonder,merveille,76
+bedford,Bedford,6
+comfort,confort,115
+stars,étoiles,38
+paris,Paris,48
+valentine,Valentin,29
+leave,laisser,522
+desire,le désir,171
+might,pourrait,1061
+danger,danger,90
+undone,défait,23
+morning,Matin,69
+season,saison,21
+dearest,très cher,51
+dearly,chèrement,20
+dreadful,horrible,57
+ignorant,ignorant,39
+flesh,la chair,86
+bless,bénir,103
+study,étude,41
+title,Titre,64
+blush,rougir,32
+borne,supporté,63
+minister,ministre,27
+success,Succès,21
+habit,habitude,25
+intent,intention,26
+found,a trouvé,185
+custom,Douane,24
+sweet,sucré,707
+mariana,Mariana,7
+wrought,forgé,35
+below,au dessous de,31
+miranda,Miranda,3
+merry,joyeux,103
+happiness,bonheur,33
+about,sur,350
+knowledge,connaissance,128
+valiant,vaillant,110
+themselves,se,150
+henceforth,désormais,38
+farewell,adieu,41
+plague,peste,82
+hangs,bloque,35
+attended,assisté,31
+thomas,Thomas,57
+ladyship,Madame,21
+wherein,où,1345
+abide,respecter,29
+unhappy,malheureux,28
+mighty,puissant,99
+every,chaque,491
+armour,armure,27
+native,originaire de,42
+knife,couteau,23
+paulina,paulina,5
+repair,réparation,36
+strange,étrange,177
+anything,n'importe quoi,68
+therefore,Par conséquent,150
+commercial,commercial,221
+forest,forêt,52
+painter,peintre,8
+tower,la tour,28
+remember,rappelles toi,137
+policy,politique,26
+order,ordre,67
+nature,la nature,218
+soldier,soldat,66
+names,des noms,25
+daughter,fille,193
+stood,se tenait,82
+delight,délice,35
+parts,les pièces,74
+buried,enterré,38
+distributed,distribué,442
+black,noir,122
+father,père,404
+birth,naissance,30
+weary,se lasser,58
+cheek,joue,38
+percy,Percy,26
+first,première,988
+spare,de rechange,55
+prove,prouver,222
+mistress,maîtresse,257
+fenton,Fenton,7
+highness,altesse,96
+talbot,talbot,50
+wound,blessure,46
+ourselves,nous-mêmes,72
+queen,reine,466
+world,monde,568
+worth,vaut,162
+eternal,éternel,34
+fault,faute,89
+until,jusqu'à,76
+gross,brut,44
+reputation,réputation,23
+sleep,sommeil,130
+consent,consentement,56
+awhile,quelque temps,23
+weeping,larmes,184
+desperate,désespéré,41
+offence,infraction,51
+estate,biens,28
+works,travaux,245
+tonight,ce soir,20
+glorious,glorieux,37
+prologue,prologue,21
+chaste,chaste,26
+figure,figure,27
+therefore,par conséquent,459
+forces,les forces,35
+commanded,commandé,29
+grown,grandi,55
+fight,bats toi,158
+confess,avouer,90
+claudio,Claudio,43
+husband,mari,126
+dramatis,dramatis,36
+swift,rapide,118
+choice,choix,36
+former,ancien,123
+includes,comprend,223
+enemies,ennemis,35
+finds,trouve,37
+protector,protecteur,22
+brook,ruisseau,32
+yourself,toi même,152
+awake,éveillé,31
+tells,raconte,41
+brave,courageux,148
+second,seconde,563
+finger,doigt,40
+having,ayant,144
+receive,recevoir,87
+tender,soumissionner,123
+reason,raison,179
+within,dans,283
+sorry,Pardon,75
+claim,prétendre,50
+throat,gorge,24
+strength,force,78
+quiet,silencieux,51
+bishop,évêque,39
+honest,honnête,213
+great,génial,828
+simple,Facile,73
+cominius,cominius,17
+brains,cerveaux,22
+close,proche,69
+shows,montre,84
+secret,secret,52
+matter,matière,210
+hollow,creux,41
+general,général,139
+cannot,ne peux pas,719
+water,eau,83
+deadly,mortel,126
+venice,venise,24
+above,au dessus,115
+betray,trahir,36
+suspect,suspect,33
+opinion,opinion,45
+embrace,embrasse,53
+heard,entendu,298
+quite,assez,224
+truth,vérité,165
+window,la fenêtre,21
+argument,argument,38
+worship,culte,58
+speaks,parle,98
+painted,peint,45
+frame,Cadre,36
+passage,passage,29
+sirrah,sirrah,13
+knight,Chevalier,41
+blessing,bénédiction,27
+spite,dépit,41
+speed,la vitesse,73
+pluck,cueillir,106
+therein,la bride,47
+sense,sens,104
+senator,sénateur,3
+satisfied,satisfait,13
+coming,venir,82
+catch,capture,57
+looks,regards,142
+needs,Besoins,141
+memory,Mémoire,33
+contrary,contraire,20
+glass,verre,32
+grieve,pleurer,37
+devise,concevoir,37
+withal,avec,36
+quality,qualité,28
+guess,devine,33
+oaths,serments,36
+counsel,conseil,29
+indeed,En effet,147
+devil,diable,129
+drown,noyer,39
+virtue,vertu,130
+knows,sait,178
+sacred,sacré,47
+enobarbus,énobarbus,18
+library,bibliothèque,7
+because,car,182
+bassianus,bassianus,17
+aside,de côté,24
+grief,douleur,116
+quarrel,querelle,66
+oberon,Oberon,8
+oxford,Oxford,13
+heart,cœur,528
+office,Bureau,70
+cunning,ruse,58
+fortune,fortune,192
+comes,vient,513
+loves,aime,153
+perfect,parfait,43
+rogue,coquin,42
+ladies,Dames,62
+deserve,mériter,53
+perceive,apercevoir,84
+hands,mains,167
+trial,procès,31
+cares,se soucie,26
+raise,élever,45
